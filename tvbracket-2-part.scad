@@ -1,3 +1,8 @@
+// tvbracket-2-part.scad
+// TV Bracket in 2 pieces for easy printing
+// 
+// Copyright 2013 Christopher Roberts
+
 // Global parameters
 circular_facets     = 20;
 

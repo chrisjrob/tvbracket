@@ -1,3 +1,8 @@
+// tvbracket-1-part.scad
+// TV Bracket in a single piece
+// 
+// Copyright 2013 Christopher Roberts
+
 // Global parameters
 circular_facets     = 20;
 
